@@ -19,5 +19,8 @@
   "packageManager": "yarn@1.22.19",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
 }
