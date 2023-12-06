@@ -2,6 +2,7 @@
   "name": "@bahag-buttf/typescript-config",
   "version": "0.0.0",
   "private": false,
+  "repository": "https://github.com/bahag-buttf/bahag-design-system",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
