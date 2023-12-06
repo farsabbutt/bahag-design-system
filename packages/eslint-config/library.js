@@ -1,7 +1,7 @@
 const { resolve } = require("node:path");
 
 const project = resolve(process.cwd(), "tsconfig.json");
-
+// Add a comment to eslint config
 /** @type {import("eslint").Linter.Config} */
 module.exports = {
   extends: ["eslint:recommended", "prettier", "eslint-config-turbo"],
