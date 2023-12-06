@@ -1,6 +1,6 @@
 {
   "name": "@farsabbutt/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.0-snapshot-release-20231206162534",
   "private": false,
   "repository": "https://github.com/farsabbutt/bahag-design-system",
   "files": [
