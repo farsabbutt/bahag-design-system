@@ -1,5 +1,11 @@
 # @bahag-buttf/eslint-config
 
+## 0.0.4
+
+### Patch Changes
+
+- [#8](https://github.com/bahag-buttf/bahag-design-system/pull/8) [`d18479c`](https://github.com/bahag-buttf/bahag-design-system/commit/d18479c38afb498a411f2200be46f2d816757079) Thanks [@bahag-buttf](https://github.com/bahag-buttf)! - update readme file
+
 ## 0.0.3
 
 ### Patch Changes
