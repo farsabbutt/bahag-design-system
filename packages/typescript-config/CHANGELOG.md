@@ -1,5 +1,11 @@
 # @farsabbutt/typescript-config
 
+## 0.0.3
+
+### Patch Changes
+
+- [#23](https://github.com/farsabbutt/bahag-design-system/pull/23) [`eafc704`](https://github.com/farsabbutt/bahag-design-system/commit/eafc7042a03886ddcdccba29abb1fcf64989208d) Thanks [@farsabbutt](https://github.com/farsabbutt)! - add readme file for typescript config
+
 ## 0.0.2
 
 ### Patch Changes
