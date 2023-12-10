@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "private": false,
   "repository": "https://github.com/bahag-buttf/bahag-design-system",
+  "license": "UNLICENCED",
   "files": [
     "library.js",
     "next.js",

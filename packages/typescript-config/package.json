@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "private": false,
   "repository": "https://github.com/bahag-buttf/bahag-design-system",
-  "license": "MIT",
+  "license": "UNLICENCED",
   "publishConfig": {
     "access": "public"
   }
