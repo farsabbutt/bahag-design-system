@@ -1,6 +1,6 @@
 {
   "name": "@bahag-buttf/ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "exports": {
     "./card": "./src/card.tsx",
@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@bahag-buttf/eslint-config": "^0.0.8",
-    "@bahag-buttf/typescript-config": "^0.0.4",
+    "@bahag-buttf/typescript-config": "^0.0.5",
     "@turbo/gen": "^1.10.12",
     "@types/node": "^20.5.2",
     "@types/eslint": "^8.44.7",
