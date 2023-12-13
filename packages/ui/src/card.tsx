@@ -1,3 +1,6 @@
+/**
+ * Card component
+ */
 export function Card({
   className,
   title,
