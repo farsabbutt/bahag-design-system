@@ -1,7 +1,7 @@
 /**
  * Card component
  */
-export function Card({
+export function MyCard({
   className,
   title,
   children,
