@@ -1,5 +1,11 @@
 # @bahag-buttf/ui
 
+## 0.1.0
+
+### Minor Changes
+
+- [#26](https://github.com/bahag-buttf/bahag-design-system/pull/26) [`b993d63`](https://github.com/bahag-buttf/bahag-design-system/commit/b993d637dcd23d98b3fc6b87894e37085aae3bb5) Thanks [@bahag-buttf](https://github.com/bahag-buttf)! - update component name
+
 ## 0.0.2
 
 ### Patch Changes
