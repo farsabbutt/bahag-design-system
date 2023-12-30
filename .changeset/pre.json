@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "@farsabbutt/eslint-config": "0.0.2",
+    "@farsabbutt/typescript-config": "0.0.3",
+    "@farsabbutt/ui": "0.0.0"
+  },
+  "changesets": []
+}
