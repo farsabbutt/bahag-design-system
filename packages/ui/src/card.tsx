@@ -4,12 +4,10 @@
 export function MyCard({
   className,
   title,
-  children,
   href,
 }: {
   className?: string;
   title: string;
-  children: React.ReactNode;
   href: string;
 }): JSX.Element {
   return (
@@ -22,7 +20,7 @@ export function MyCard({
       <h2>
         {title} <span>-&gt;</span>
       </h2>
-      <p>{children}</p>
+      <p>No more children</p>
     </a>
   );
 }
