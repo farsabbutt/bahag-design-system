@@ -1,5 +1,5 @@
 /**
- * Card component
+ * This is a Card component
  */
 export function MyCard({
   className,
