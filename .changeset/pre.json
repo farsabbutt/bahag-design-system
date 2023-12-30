@@ -6,5 +6,7 @@
     "@farsabbutt/typescript-config": "0.0.5",
     "@farsabbutt/ui": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "fresh-weeks-bathe"
+  ]
 }
