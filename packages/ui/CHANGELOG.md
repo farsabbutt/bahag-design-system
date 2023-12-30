@@ -1,10 +1,10 @@
-# @bahag-buttf/ui
+# @farsabbutt/ui
 
 ## 0.1.0
 
 ### Minor Changes
 
-- [#26](https://github.com/bahag-buttf/bahag-design-system/pull/26) [`b993d63`](https://github.com/bahag-buttf/bahag-design-system/commit/b993d637dcd23d98b3fc6b87894e37085aae3bb5) Thanks [@bahag-buttf](https://github.com/bahag-buttf)! - update component name
+- [#26](https://github.com/bahag-buttf/bahag-design-system/pull/26) [`b993d63`](https://github.com/bahag-buttf/bahag-design-system/commit/b993d637dcd23d98b3fc6b87894e37085aae3bb5) Thanks [@farsabbutt](https://github.com/bahag-buttf)! - update component name
 
 ## 0.0.2
 
@@ -16,4 +16,4 @@
 
 ### Patch Changes
 
-- [#20](https://github.com/bahag-buttf/bahag-design-system/pull/20) [`a330a5d`](https://github.com/bahag-buttf/bahag-design-system/commit/a330a5dd26abba662d931eb7b53f997f617da0dc) Thanks [@bahag-buttf](https://github.com/bahag-buttf)! - updates to readme files
+- [#20](https://github.com/bahag-buttf/bahag-design-system/pull/20) [`a330a5d`](https://github.com/bahag-buttf/bahag-design-system/commit/a330a5dd26abba662d931eb7b53f997f617da0dc) Thanks [@farsabbutt](https://github.com/bahag-buttf)! - updates to readme files
