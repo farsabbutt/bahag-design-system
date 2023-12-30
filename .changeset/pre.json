@@ -1,0 +1,13 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@farsabbutt/eslint-config": "0.1.0",
+    "@farsabbutt/typescript-config": "0.0.5",
+    "@farsabbutt/ui": "1.0.0"
+  },
+  "changesets": [
+    "odd-pens-wave",
+    "ten-rabbits-repair"
+  ]
+}
