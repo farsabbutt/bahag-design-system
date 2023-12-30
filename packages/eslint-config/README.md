@@ -1,11 +1,5 @@
 # `@turbo/eslint-config`
 
+// description here
 Description:
 Collection of internal eslint configurations.
-
-
-Test asdsa
-Test asdsa
-Test asdsa
-Test asdsa
-Test asdsa
