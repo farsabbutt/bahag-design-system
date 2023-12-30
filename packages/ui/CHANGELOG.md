@@ -1,5 +1,11 @@
 # @farsabbutt/ui
 
+## 1.0.0
+
+### Major Changes
+
+- [`63babe7`](https://github.com/bahag-buttf/bahag-design-system/commit/63babe70f482e52a5f397b2c86db7650d8389ad7) Thanks [@farsabbutt](https://github.com/farsabbutt)! - major breaking change, remove component prop
+
 ## 1.0.0-beta.0
 
 ### Major Changes
