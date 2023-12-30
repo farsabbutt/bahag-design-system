@@ -1,5 +1,11 @@
 # @farsabbutt/typescript-config
 
+## 0.0.6
+
+### Patch Changes
+
+- [`232632b`](https://github.com/bahag-buttf/bahag-design-system/commit/232632b6a863edfe0da7cec810ef3437faeebd30) Thanks [@farsabbutt](https://github.com/farsabbutt)! - added a description placeholder
+
 ## 0.0.5
 
 ### Patch Changes
