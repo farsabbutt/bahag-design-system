@@ -1,5 +1,11 @@
 # @farsabbutt/ui
 
+## 2.0.1
+
+### Patch Changes
+
+- [`232632b`](https://github.com/bahag-buttf/bahag-design-system/commit/232632b6a863edfe0da7cec810ef3437faeebd30) Thanks [@farsabbutt](https://github.com/farsabbutt)! - added a description placeholder
+
 ## 2.0.0
 
 ### Major Changes
