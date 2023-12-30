@@ -1,5 +1,15 @@
 # @farsabbutt/ui
 
+## 2.0.0
+
+### Major Changes
+
+- [`48b3881`](https://github.com/bahag-buttf/bahag-design-system/commit/48b38819db387022245c3783de3c3fb5747fe6ef) Thanks [@farsabbutt](https://github.com/farsabbutt)! - Major breaking change removed prop
+
+### Minor Changes
+
+- [`24c6aa5`](https://github.com/bahag-buttf/bahag-design-system/commit/24c6aa571c356fac0c66a341707681813433f808) Thanks [@farsabbutt](https://github.com/farsabbutt)! - add comment and configure git repo url
+
 ## 2.0.0-beta.0
 
 ### Major Changes
