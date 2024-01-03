@@ -1,0 +1,13 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@farsabbutt/eslint-config": "0.1.1",
+    "@farsabbutt/typescript-config": "0.0.6",
+    "@farsabbutt/ui": "2.0.1"
+  },
+  "changesets": [
+    "beige-dolphins-flash",
+    "swift-spoons-punch"
+  ]
+}
