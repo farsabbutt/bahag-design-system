@@ -1,5 +1,13 @@
 # @farsabbutt/typescript-config
 
+## 0.1.0
+
+### Minor Changes
+
+- [`6544b4e`](https://github.com/bahag-buttf/bahag-design-system/commit/6544b4e4f3be87e578e772d3adb5b041a3b724d4) Thanks [@farsabbutt](https://github.com/farsabbutt)! - more readme changes
+
+- [`6544b4e`](https://github.com/bahag-buttf/bahag-design-system/commit/6544b4e4f3be87e578e772d3adb5b041a3b724d4) Thanks [@farsabbutt](https://github.com/farsabbutt)! - update readme file
+
 ## 0.1.0-beta.0
 
 ### Minor Changes
