@@ -1,6 +1,6 @@
 {
   "name": "@farsabbutt/ui",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "private": false,
   "license": "MIT",
   "repository": "https://github.com/farsabbutt/bahag-design-system",
@@ -13,7 +13,10 @@
     "lint": "eslint . --max-warnings 0",
     "generate:component": "turbo gen react-component"
   },
-  "files": ["dist", "package.json"],
+  "files": [
+    "dist",
+    "package.json"
+  ],
   "devDependencies": {
     "@farsabbutt/eslint-config": "^0.2.0",
     "@farsabbutt/typescript-config": "^0.1.0",
