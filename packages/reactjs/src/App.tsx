@@ -12,6 +12,8 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <MyCard title="test" href="test" />
+        <MyCard title="test" href="test" />
+        <MyCard title="test" href="test" />
         <Code />
         <a
           className="App-link"
