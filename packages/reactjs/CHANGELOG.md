@@ -1,5 +1,11 @@
 # reactjs
 
+## 0.4.0
+
+### Minor Changes
+
+- [`1e8a152`](https://github.com/bahag-buttf/bahag-design-system/commit/1e8a152b1793ad1d6e309aa1e7b4a7301834ec0b) Thanks [@farsabbutt](https://github.com/farsabbutt)! - add more card components
+
 ## 0.3.0
 
 ### Minor Changes
