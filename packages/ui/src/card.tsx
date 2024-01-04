@@ -20,7 +20,7 @@ export function MyCard({
       <h2>
         {title} <span>-&gt;</span>
       </h2>
-      <p>No more children</p>
+      <p>No more children this is awesome</p>
     </a>
   );
 }

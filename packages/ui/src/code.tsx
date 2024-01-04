@@ -3,5 +3,5 @@ export function Code({
 }: {
   className?: string;
 }): JSX.Element {
-  return <code className={className}>Children does not exist.</code>;
+  return <code className={className}>This is a code component!!!</code>;
 }
