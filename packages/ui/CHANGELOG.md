@@ -1,5 +1,11 @@
 # @farsabbutt/ui
 
+## 2.2.0
+
+### Minor Changes
+
+- [`3d5e0ec`](https://github.com/bahag-buttf/bahag-design-system/commit/3d5e0eca5fe61bbec08b4cf0b3366d5ed787b5dc) Thanks [@farsabbutt](https://github.com/farsabbutt)! - update configuration for ui package
+
 ## 2.1.0
 
 ### Minor Changes
