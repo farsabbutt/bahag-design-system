@@ -2,7 +2,7 @@
   "name": "documentation",
   "private": true,
   "type": "module",
-  "version": "0.1.0-canary.2",
+  "version": "0.1.0-canary.3",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

@@ -1,5 +1,11 @@
 # documentation
 
+## 0.1.0-canary.3
+
+### Patch Changes
+
+- [`698dd40`](https://github.com/bahag-buttf/bahag-design-system/commit/698dd40107942fbf0342a6f6cae275aed54e58a9) Thanks [@farsabbutt](https://github.com/farsabbutt)! - configure documentation to be private
+
 ## 0.1.0-canary.2
 
 ### Patch Changes
