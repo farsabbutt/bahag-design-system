@@ -1,5 +1,13 @@
 # documentation
 
+## 0.1.2-canary.0
+
+### Patch Changes
+
+- [`e8d63e7`](https://github.com/bahag-buttf/bahag-design-system/commit/e8d63e72bb426fc686b4dff7853363c39b18cbd9) Thanks [@farsabbutt](https://github.com/farsabbutt)! - bugfix # 2
+
+- [`8b726df`](https://github.com/bahag-buttf/bahag-design-system/commit/8b726df34822df35bcb2925659fc7acfa76c4314) Thanks [@farsabbutt](https://github.com/farsabbutt)! - bugfix # 1
+
 ## 0.1.1
 
 ### Patch Changes

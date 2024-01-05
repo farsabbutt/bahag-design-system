@@ -8,5 +8,8 @@
     "@farsabbutt/typescript-config": "0.1.0",
     "@farsabbutt/ui": "2.3.0"
   },
-  "changesets": []
+  "changesets": [
+    "early-gorillas-relate",
+    "eleven-pugs-tan"
+  ]
 }
