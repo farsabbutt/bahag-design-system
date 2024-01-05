@@ -1,5 +1,19 @@
 # documentation
 
+## 0.1.0
+
+### Minor Changes
+
+- [`4edf441`](https://github.com/bahag-buttf/bahag-design-system/commit/4edf441b328e2444198e6c740b556e03c27890d8) Thanks [@farsabbutt](https://github.com/farsabbutt)! - setup documentation package
+
+### Patch Changes
+
+- [`4edf441`](https://github.com/bahag-buttf/bahag-design-system/commit/4edf441b328e2444198e6c740b556e03c27890d8) Thanks [@farsabbutt](https://github.com/farsabbutt)! - fix build script again
+
+- [`4edf441`](https://github.com/bahag-buttf/bahag-design-system/commit/4edf441b328e2444198e6c740b556e03c27890d8) Thanks [@farsabbutt](https://github.com/farsabbutt)! - fix build script for documentation package
+
+- [`4edf441`](https://github.com/bahag-buttf/bahag-design-system/commit/4edf441b328e2444198e6c740b556e03c27890d8) Thanks [@farsabbutt](https://github.com/farsabbutt)! - configure documentation to be private
+
 ## 0.1.0-canary.3
 
 ### Patch Changes
