@@ -2,6 +2,8 @@
 
 This is some dummy text
 
+Some bugfix # 1
+
 ```sh
 npm create astro@latest -- --template basics
 ```
