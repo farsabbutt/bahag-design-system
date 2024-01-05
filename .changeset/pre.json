@@ -9,6 +9,7 @@
     "documentation": "0.0.0"
   },
   "changesets": [
-    "calm-hornets-clap"
+    "calm-hornets-clap",
+    "metal-shrimps-whisper"
   ]
 }
