@@ -1,5 +1,11 @@
 # documentation
 
+## 0.1.1
+
+### Patch Changes
+
+- [`8edc3c0`](https://github.com/bahag-buttf/bahag-design-system/commit/8edc3c03fc24edf7067bdeb7dbc254e776517cc8) Thanks [@farsabbutt](https://github.com/farsabbutt)! - update docs
+
 ## 0.1.0
 
 ### Minor Changes
