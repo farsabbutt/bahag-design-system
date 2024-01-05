@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "yarn astro check -y && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
