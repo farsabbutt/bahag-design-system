@@ -5,6 +5,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "repository": "https://github.com/farsabbutt/bahag-design-system",
   "files": [
     "build",
     "index.js"
