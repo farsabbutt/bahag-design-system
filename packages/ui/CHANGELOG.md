@@ -1,5 +1,11 @@
 # @farsabbutt/ui
 
+## 2.4.0-canary.0
+
+### Minor Changes
+
+- [`a9c7c0b`](https://github.com/bahag-buttf/bahag-design-system/commit/a9c7c0b0f77a00d71fa105b2f18cdcc0b1ff87f2) Thanks [@farsabbutt](https://github.com/farsabbutt)! - updated code component
+
 ## 2.3.0
 
 ### Minor Changes
