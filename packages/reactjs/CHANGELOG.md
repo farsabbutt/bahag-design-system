@@ -1,5 +1,16 @@
 # reactjs
 
+## 0.5.0
+
+### Minor Changes
+
+- [`42bf258`](https://github.com/bahag-buttf/bahag-design-system/commit/42bf258d1bb599fb56d82075529bd240ac6a5750) Thanks [@farsabbutt](https://github.com/farsabbutt)! - updated code component
+
+### Patch Changes
+
+- Updated dependencies [[`42bf258`](https://github.com/bahag-buttf/bahag-design-system/commit/42bf258d1bb599fb56d82075529bd240ac6a5750)]:
+  - @farsabbutt/ui@2.4.0
+
 ## 0.5.0-canary.0
 
 ### Minor Changes

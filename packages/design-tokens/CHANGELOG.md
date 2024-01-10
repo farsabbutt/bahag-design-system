@@ -1,5 +1,15 @@
 # @farsabbutt/design-tokens
 
+## 0.1.0
+
+### Minor Changes
+
+- [`42bf258`](https://github.com/bahag-buttf/bahag-design-system/commit/42bf258d1bb599fb56d82075529bd240ac6a5750) Thanks [@farsabbutt](https://github.com/farsabbutt)! - setup design tokens package
+
+### Patch Changes
+
+- [`42bf258`](https://github.com/bahag-buttf/bahag-design-system/commit/42bf258d1bb599fb56d82075529bd240ac6a5750) Thanks [@farsabbutt](https://github.com/farsabbutt)! - configure repo url
+
 ## 0.1.0-canary.1
 
 ### Patch Changes
