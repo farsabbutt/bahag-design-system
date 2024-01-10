@@ -6,7 +6,11 @@
     "@farsabbutt/eslint-config": "0.2.0",
     "reactjs": "0.4.0",
     "@farsabbutt/typescript-config": "0.1.0",
-    "@farsabbutt/ui": "2.3.0"
+    "@farsabbutt/ui": "2.3.0",
+    "@farsabbutt/design-tokens": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "chilled-ads-sleep",
+    "cuddly-pugs-cross"
+  ]
 }
