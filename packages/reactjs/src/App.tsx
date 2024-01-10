@@ -14,7 +14,7 @@ function App() {
         <MyCard title="test" href="test" />
         <MyCard title="test" href="test" />
         <MyCard title="test" href="test" />
-        <Code />
+        <Code items={[{ title: "Title # 1"}, { title: "Title # 2"}, { title: "Title # 3"}]} />
         <a
           className="App-link"
           href="https://reactjs.org"
