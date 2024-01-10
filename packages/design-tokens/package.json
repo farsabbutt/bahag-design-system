@@ -1,0 +1,19 @@
+{
+  "name": "@farsabbutt/design-tokens",
+  "private": false,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "files": ["build", "index.js"],
+  "scripts": {
+    "build": "style-dictionary build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.9.1"
+  }
+}
